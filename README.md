@@ -21,4 +21,4 @@ Aqui estão alguns Links importantes:
 
 Link do meu Linkedin: https://www.linkedin.com/in/lucas-campanhari-707a311a2/ <br>
 Link do meu Facebook: https://www.facebook.com/profile.php?id=100069903980358 <br>
-Link do meu Portfólio: A partir do dia 1 de novembro de 2022.
+Link do meu Portfólio: https://github.com/Lukinhas2311/Portfolio
