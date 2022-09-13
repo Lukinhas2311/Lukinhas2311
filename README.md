@@ -1,16 +1,24 @@
-### Hi there 👋
+Olá, me chamo Lucas Campanhari, sou desenvolvedor júnior em análise e desenvolvimento de sistemas, atuando a 2 anos no ramo independente na criação de sites e aplicações web. 
 
-<!--
-**Lukinhas2311/Lukinhas2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Utilizo as seguintes linguagens para programar:
 
-Here are some ideas to get you started:
+Html;
+Css;
+JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo as seguintes lib's para programar:
+
+ReactJs;
+Wordpress.
+
+Utilizo os seguintes bancos de dados:
+
+Firebase.
+
+
+
+Aqui estão alguns Links importantes:
+
+Link do meu Linkedin: https://www.linkedin.com/in/lucas-campanhari-707a311a2/ <br>
+Link do meu Facebook: https://www.facebook.com/profile.php?id=100069903980358 <br>
+Link do meu Portfólio: A partir do dia 1 de novembro de 2022.
